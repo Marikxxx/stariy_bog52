@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716318767 source:d:\c\projectx\stariy_bog\main.c
+	<stdio.h>
+	"lr.h"
+
+1716318767 d:\c\projectx\stariy_bog\lr.h
+	<stdio.h>
+
+1716319424 source:d:\c\projectx\stariy_bog\lr.c
+	"lr.h"
+
